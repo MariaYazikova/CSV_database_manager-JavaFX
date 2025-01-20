@@ -1,4 +1,4 @@
-It is an employee database management application implemented using JavaFX. The data is stored in a CSV file.
+It is an employee database management application implemented using JavaFX. The data is stored in a CSV file. Second year university.
 ## **Functional**
 - creating, opening, deleting, cleaning, saving database
 - adding a new entry to the database
